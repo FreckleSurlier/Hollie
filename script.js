@@ -4,3 +4,5 @@ document.addEventListener("DOMContentLoaded", function () {
         placement: 'top',
     });
 });
+console.log('Script loaded at:', new Date());
+alert('Script is working!');
