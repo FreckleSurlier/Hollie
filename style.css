@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f3f4f6;
+    color: #1f2937;
+}
+
+nav {
+    background-color: #ffffff;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
